@@ -1,8 +1,9 @@
 # SQL-with-Oracle
 
 This is a repo about that I'm gonna study SQL for SQLD(SQL Developer administered by K-Data) in 20 Mar.  
-The textbook is "Do it! 오라클로 배우는 데이터베이스 입문" written by 이지훈 (30 Oct 2018)
-In the textbook, the largest category is named *floor*. ex) Second floor chapter4 section1
+The textbook is "Do it! 오라클로 배우는 데이터베이스 입문" written by 이지훈 (30 Oct 2018)  
+  
+In the textbook, the largest category is named *floor*. ex) Second floor chapter4 section1  
 Nth-floorN-QnA.sql files are the answers to the quiz at the end of each chapters.  
   
 |     Date   |        File       |                 About                 |                                                                                                Related functions                                                                                               |          ETC          |
